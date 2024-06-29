@@ -2,7 +2,7 @@
 # It is not used in the main functionality of the service
 # It is quite messy so far
 # to use analytics tools you need to install some extra libraries
-# !pip install pandas
+# !pip installing pandas
 
 from tests.candidate import complete_interview
 from tests.grader import grade
